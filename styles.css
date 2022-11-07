@@ -1,0 +1,24 @@
+header{
+    background: aqua;
+    text-align: center;
+    padding: 1cm;
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+form input{
+   padding-left: cm;  
+   border-radius: 10%;
+}
+form button#btn{
+    background: cadetblue;
+    color: #fff;
+    padding:.5em;
+    border: none;
+}
+
+form button#btn:hover{
+    color: aqua;
+}
