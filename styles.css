@@ -9,8 +9,9 @@ body{
 }
 
 form input{
-   padding-left: cm;  
-   border-radius: 10%;
+   padding-left:cm;  
+   width: 600px;
+   height: 30px;
 }
 form button#btn{
     background: cadetblue;
